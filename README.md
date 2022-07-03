@@ -5,7 +5,7 @@ Using data from 12 different CSV files, this SQL Exploratory Data Analysis tries
 
 The CSV files' field structure is as follows:
 * Order ID: Each order receives its own Order ID.
-* Product: Product that has been sold.
+* Product: Product that has been ordered.
 * Quantity Ordered: Total item quantity ordered in a given order.
 * Price Each: Unit price of the product.
 * Order Date: Date and time when the customer requested the order.
